@@ -1,32 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <themes>
 
-  <!-- 🔗 Links base para XML, Wallpapers e Screens -->
-  <data 
-      Xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Theme.xml" 
-      Wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/" 
-      Screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/"
-  />
+    <!-- 🔗 Links base para XML, Wallpapers e Screens -->
+    <data 
+        xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Theme.xml" 
+        wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/" 
+        screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/"
+    />
 
-  <!-- 🌟 Lista de temas -->
-  <theme>
-    <title>MS LightThemeIos</title>
-    <date>18/05/2023</date>
-  </theme>
-
-  <theme>
-    <title>MS DarkThemeIos</title>
-    <date>18/05/2023</date>
-  </theme>
-
-  <theme>
-    <title>MS MoonKnight</title>
-    <date>18/05/2023</date>
-  </theme>
-
-  <theme>
-    <title>MS SpiderMan</title>
-    <date>22/10/2023</date>
-  </theme>
+    <!-- 🌟 Lista de temas (ultra enxuta) -->
+    <theme id="1" title="LightThemeIos"/>
+    <theme id="2" title="DarkThemeIos"/>
+    <theme id="3" title="MoonKnight"/>
+    <theme id="4" title="SpiderMan"/>
 
 </themes>
