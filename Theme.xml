@@ -8,10 +8,10 @@
     />
 
     <theme>
-     <theme title="Grifi" date="22/10/2023"
-    wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/Grifi_homeW.jpg"
-    screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/Grifi.jpg"
-/>
+      <theme>
+        <title>Grifi</title>
+        <date>18/05/2023</date>
+    </theme>
 
 
     </theme>
