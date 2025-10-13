@@ -3,49 +3,57 @@
 
   <!-- 🔗 Links base para XML, Wallpapers e Screens -->
   <data 
-      Xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/" 
-      Wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/" 
-      Screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/" 
+      Xml="📄 https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/" 
+      Wall="🖼️ https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/" 
+      Screen="📱 https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/" 
   />
 
   <!-- 🌑 Dark Theme iOS -->
   <theme>
     <title>🌑 DarkThemeIos</title>
-    <date>07/01/2025</date>
-    <author>João Silva</author>
-    <xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/DarkThemeIos.xml</xml>
-    <wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/DarkThemeIos.jpg</wall>
-    <screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/DarkThemeIos.png</screen>
+    <date>📅 07/01/2025</date>
+    <author>👤 João Silva</author>
+    <xml>📄 https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/DarkThemeIos.xml</xml>
+    <wall_preview>🖼️ https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/Preview/DarkThemeIos_preview_400.jpg</wall_preview>
+    <wall>🖼️ https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/DarkThemeIos.jpg</wall>
+    <screen_preview>📱 https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/Preview/DarkThemeIos_preview_400.png</screen_preview>
+    <screen>📱 https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/DarkThemeIos.png</screen>
   </theme>
 
   <!-- ☀️ Light Theme iOS -->
   <theme>
     <title>☀️ LightThemeIos</title>
-    <date>07/01/2025</date>
-    <author>Maria Oliveira</author>
-    <xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/LightThemeIos.xml</xml>
-    <wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/LightThemeIos.jpg</wall>
-    <screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/LightThemeIos.png</screen>
+    <date>📅 07/01/2025</date>
+    <author>👤 Maria Oliveira</author>
+    <xml>📄 https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/LightThemeIos.xml</xml>
+    <wall_preview>🖼️ https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/Preview/LightThemeIos_preview_400.jpg</wall_preview>
+    <wall>🖼️ https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/LightThemeIos.jpg</wall>
+    <screen_preview>📱 https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/Preview/LightThemeIos_preview_400.png</screen_preview>
+    <screen>📱 https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/LightThemeIos.png</screen>
   </theme>
 
   <!-- 🌙 Moon Knight Theme -->
   <theme>
     <title>🌙 MoonKnight</title>
-    <date>07/01/2025</date>
-    <author>Carlos Mendes</author>
-    <xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/MoonKnight.xml</xml>
-    <wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/MoonKnight.jpg</wall>
-    <screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/MoonKnight.png</screen>
+    <date>📅 07/01/2025</date>
+    <author>👤 Carlos Mendes</author>
+    <xml>📄 https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/MoonKnight.xml</xml>
+    <wall_preview>🖼️ https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/Preview/MoonKnight_preview_400.jpg</wall_preview>
+    <wall>🖼️ https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/MoonKnight.jpg</wall>
+    <screen_preview>📱 https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/Preview/MoonKnight_preview_400.png</screen_preview>
+    <screen>📱 https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/MoonKnight.png</screen>
   </theme>
 
   <!-- 🕷️ SpiderMan Theme -->
   <theme>
     <title>🕷️ SpiderMan</title>
-    <date>07/01/2025</date>
-    <author>Ana Costa</author>
-    <xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/SpiderMan.xml</xml>
-    <wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/SpiderMan.jpg</wall>
-    <screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/SpiderMan.png</screen>
+    <date>📅 07/01/2025</date>
+    <author>👤 Ana Costa</author>
+    <xml>📄 https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/SpiderMan.xml</xml>
+    <wall_preview>🖼️ https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/Preview/SpiderMan_preview_400.jpg</wall_preview>
+    <wall>🖼️ https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/SpiderMan.jpg</wall>
+    <screen_preview>📱 https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/Preview/SpiderMan_preview_400.png</screen_preview>
+    <screen>📱 https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/SpiderMan.png</screen>
   </theme>
 
 </themes>
