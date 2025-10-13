@@ -1,11 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <themes>
-  <data Xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/" 
-        Wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/" 
-        Screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/" />
-  
+
+  <!-- 🔗 Links base para XML, Wallpapers e Screens -->
+  <data 
+      Xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/" 
+      Wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/" 
+      Screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/" 
+  />
+
+  <!-- 🌑 Dark Theme iOS -->
   <theme>
-    <title>DarkThemeIos</title>
+    <title>🌑 DarkThemeIos</title>
     <date>07/01/2025</date>
     <author>João Silva</author>
     <xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/DarkThemeIos.xml</xml>
@@ -13,8 +18,9 @@
     <screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/DarkThemeIos.png</screen>
   </theme>
 
+  <!-- ☀️ Light Theme iOS -->
   <theme>
-    <title>LightThemeIos</title>
+    <title>☀️ LightThemeIos</title>
     <date>07/01/2025</date>
     <author>Maria Oliveira</author>
     <xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/LightThemeIos.xml</xml>
@@ -22,8 +28,9 @@
     <screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/LightThemeIos.png</screen>
   </theme>
 
+  <!-- 🌙 Moon Knight Theme -->
   <theme>
-    <title>MoonKnight</title>
+    <title>🌙 MoonKnight</title>
     <date>07/01/2025</date>
     <author>Carlos Mendes</author>
     <xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/MoonKnight.xml</xml>
@@ -31,12 +38,14 @@
     <screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/MoonKnight.png</screen>
   </theme>
 
+  <!-- 🕷️ SpiderMan Theme -->
   <theme>
-    <title>SpiderMan</title>
+    <title>🕷️ SpiderMan</title>
     <date>07/01/2025</date>
     <author>Ana Costa</author>
     <xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/SpiderMan.xml</xml>
     <wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/SpiderMan.jpg</wall>
     <screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/SpiderMan.png</screen>
   </theme>
+
 </themes>
