@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <themes>
 
+    <!-- 🔗 Links base para XML, Wallpapers e Screens -->
     <data 
-        xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Theme.xml" 
+        xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/" 
         wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/" 
         screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/"
     />
 
+    <!-- 🌟 Lista de temas -->
     <theme>
-      <theme>
-        <title>Grifi</title>
+        <title>LightThemeIos</title>
         <date>18/05/2023</date>
     </theme>
 
