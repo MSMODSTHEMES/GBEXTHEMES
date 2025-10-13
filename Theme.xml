@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <themes>
 
-    <!-- 🔗 Links base para XML, Wallpapers e Screens -->
     <data 
         xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Theme.xml" 
         wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/" 
         screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/"
     />
 
-    <!-- 🌟 Tema SpiderMan -->
-    <theme title="SpiderMan" date="22/10/2023"
-        wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/SpiderMan.jpg"
-        screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/SpiderMan.jpg"
-    />
+    <theme>
+        <title>LightThemeIos</title>
+        <date>18/05/2023</date>
+    </theme>
+
+    <theme>
+        <title>DarkThemeIos</title>
+        <date>18/05/2023</date>
+    </theme>
+
+    <theme>
+        <title>MoonKnight</title>
+        <date>18/05/2023</date>
+    </theme>
+
+    <theme>
+        <title>SpiderMan</title>
+        <date>22/10/2023</date>
+    </theme>
 
 </themes>
