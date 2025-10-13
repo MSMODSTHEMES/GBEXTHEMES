@@ -1,2 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<themes><data Xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/" Wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/" Screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/" /><theme><title>DarkThemeIos</title><date>07/01/2025</date><xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/DarkThemeIos.xml</xml><wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/DarkThemeIos.jpg</wall><screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/DarkThemeIos.png</screen></theme><theme><title>LightThemeIos</title><date>07/01/2025</date><xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/LightThemeIos.xml</xml><wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/LightThemeIos.jpg</wall><screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/LightThemeIos.png</screen></theme><theme><title>MoonKnight</title><date>07/01/2025</date><xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/MoonKnight.xml</xml><wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/MoonKnight.jpg</wall><screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/MoonKnight.png</screen></theme><theme><title>SpiderMan</title><date>07/01/2025</date><xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/SpiderMan.xml</xml><wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/SpiderMan.jpg</wall><screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/SpiderMan.png</screen></theme></themes>
+<themes>
+  <data Xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/" 
+        Wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/" 
+        Screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/" />
+  
+  <theme>
+    <title>DarkThemeIos</title>
+    <date>07/01/2025</date>
+    <author>João Silva</author>
+    <xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/DarkThemeIos.xml</xml>
+    <wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/DarkThemeIos.jpg</wall>
+    <screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/DarkThemeIos.png</screen>
+  </theme>
+
+  <theme>
+    <title>LightThemeIos</title>
+    <date>07/01/2025</date>
+    <author>Maria Oliveira</author>
+    <xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/LightThemeIos.xml</xml>
+    <wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/LightThemeIos.jpg</wall>
+    <screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/LightThemeIos.png</screen>
+  </theme>
+
+  <theme>
+    <title>MoonKnight</title>
+    <date>07/01/2025</date>
+    <author>Carlos Mendes</author>
+    <xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/MoonKnight.xml</xml>
+    <wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/MoonKnight.jpg</wall>
+    <screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/MoonKnight.png</screen>
+  </theme>
+
+  <theme>
+    <title>SpiderMan</title>
+    <date>07/01/2025</date>
+    <author>Ana Costa</author>
+    <xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/SpiderMan.xml</xml>
+    <wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/SpiderMan.jpg</wall>
+    <screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/SpiderMan.png</screen>
+  </theme>
+</themes>
