@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<themes>
-<data Xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/refs/heads/main/Theme.xml" Wall="https://https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/refs/heads/main/Wall/" Screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/refs/heads/main/Screen/"/>
-<theme>
-<title>MS LightThemeIos</title>
-<date>18/5/2023</date>
-</theme>
-<theme>
-<title> MS DarkThemeIos</title>
-<date>18/5/2023</date>
-</theme>
-<theme>
-<title>MS MoonKnight</title>
-<date>18/5/2023</date>
-</theme>
-<theme>
-<title>MS SpiderMan</title>
-<date>22/10/2023</date>
-</theme>
-</data>
-</themes>
+<?xml version='1.0' encoding='utf-8'?>
+<themes><data Xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/" Wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/" Screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/" /><theme><title>DarkThemeIos</title><date>07/01/2025</date><xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/DarkThemeIos.xml</xml><wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/DarkThemeIos.jpg</wall><screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/DarkThemeIos.png</screen></theme><theme><title>LightThemeIos</title><date>07/01/2025</date><xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/LightThemeIos.xml</xml><wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/LightThemeIos.jpg</wall><screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/LightThemeIos.png</screen></theme><theme><title>MoonKnight</title><date>07/01/2025</date><xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/MoonKnight.xml</xml><wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/MoonKnight.jpg</wall><screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/MoonKnight.png</screen></theme><theme><title>SpiderMan</title><date>07/01/2025</date><xml>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/SpiderMan.xml</xml><wall>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/SpiderMan.jpg</wall><screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/SpiderMan.png</screen></theme></themes>
