@@ -2,9 +2,9 @@
 <themes>
 
     <!-- 🔗 Links base (mantidos apenas para referência) -->
-    <data 
-        xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/" 
-        wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/" 
+    <data  
+        xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/"  
+        wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/"  
         screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/"
     />
 
@@ -23,7 +23,7 @@
 
     <theme>
         <title>Rias_Gremory</title>
-        <date>By MS Mods</date>
+        <date>By Ms Mods</date>
         <screen>https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/Rias_Gremory1.png</screen>
     </theme>
 
