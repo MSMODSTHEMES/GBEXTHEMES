@@ -39,4 +39,10 @@
 ---
 
 <h4 align="center">📱 Desenvolvido por <strong>MS MODS TIM</strong></h4>
+reduzida_Garfield1.png
+reduzida_Garfield2.png
+reduzida_Rias_Gremory1.png
+reduzida_Rias_Gremory2.png
+reduzida_Spotify1.png
+reduzida_Spotify2.png
 
