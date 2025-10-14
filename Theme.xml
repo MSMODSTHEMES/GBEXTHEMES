@@ -12,26 +12,31 @@
     <theme>
         <title>Spotify</title>
         <date>By Ms Mods</date>
+        <screen>Spotify1.png</screen>
     </theme>
     
     <theme>
         <title>Garfield</title>
         <date>By Ms Mods</date>
+        <screen>Garfield1.png</screen>
     </theme>
 
     <theme>
         <title>Rias_Gremory</title>
         <date>By MS Mods</date>
+        <screen>Rias_Gremory1.png</screen>
     </theme>
 
     <theme>
         <title>MoonKnight</title>
         <date>18/05/2023</date>
+        <screen>MoonKnight1.png</screen>
     </theme>
 
     <theme>
         <title>SpiderMan</title>
         <date>22/10/2023</date>
+        <screen>SpiderMan1.png</screen>
     </theme>
 
 </themes>
