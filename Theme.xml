@@ -3,7 +3,7 @@
 
     <!-- 🔗 Links base (mantidos apenas para referência) -->
     <data  
-        xml="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/"  
+        xmlurl="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Xml/"  
         wall="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Wall/"  
         screen="https://raw.githubusercontent.com/MSMODSTHEMES/GBEXTHEMES/main/Screen/"
     />
@@ -33,36 +33,40 @@
         <title>Mickey</title>
         <date>By Ms Mods</date>
     </theme>
-      <theme>
+
+    <theme>
         <title>spider_gwen</title>
         <date>By Ms Mods</date>
     </theme>
-     <theme>
+
+    <theme>
         <title>Batom</title>
         <date>By Ms Mods</date>
     </theme>
     
-<theme>
+    <theme>
         <title>Horas</title>
         <date>By Ms Mods</date>
     </theme>
+
     <theme>
         <title>Naruto</title>
         <date>By Ms Mods</date>
     </theme>
-     <theme>
+
+    <theme>
         <title>Cinza</title>
         <date>By Ms Mods</date>
     </theme>
-     <theme>
-        <title>Tema gb da bonequinha by rosé </title>
+
+    <theme>
+        <title>Tema gb da bonequinha by rosé</title>
         <date>By Rosé</date>
     </theme>
 
     <theme>
-        <title>Tema bg gata by rose temas  </title>
+        <title>Tema bg gata by rose temas</title>
         <date>By Rosé</date>
     </theme>
 
-    
 </themes>
